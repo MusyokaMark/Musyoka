@@ -1,0 +1,33 @@
+form{
+    margin-top: 50px;
+    transition: all 4s ease-in-out;
+    align-items: center;
+    align-self: center;
+}
+.form-control{
+    border: none;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    width: 600px;
+    margin-bottom: 16px;
+    color:black;
+    outline: none;
+    border-bottom: 1px solid gray;
+    align-self: center;
+
+}
+input{
+    height: 45px;
+
+}
+form .submit{
+    background: #ff5722;
+    border-color: transparent;
+    color:blue;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+}
